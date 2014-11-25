@@ -1,3 +1,6 @@
+DOCUMENTATION FOR http://www.somrat.info
+
+
 **Choice the following theme for my personal website (http://www.somrat.info) .
 After choosing theme some customization is needed for looking better as you want to show . 
 Some of the plugin you can add for your flexibility or that can help you to create some complex work. 
