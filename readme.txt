@@ -1,3 +1,25 @@
+**Choice the following theme for my personal website (http://www.somrat.info) .
+After choosing theme some customization is needed for looking better as you want to show . 
+Some of the plugin you can add for your flexibility or that can help you to create some complex work. 
+
+**What's plugin i can use or you can find this website by replacing my website url in this section 
+website link : http://whatwpthemeisthat.com/
+
+**For showing my Resume i can embeded google docs....... it will help you better.How can embed google doc just find
+in google for and google embed code u can find in this site....... 
+Firstly you can sign in your google account..
+website link : https://docs.google.com/document/u/0/
+
+** You can embed facebook like or follow button or facebook comment system in your wordpress site by the collect
+embed code in this url.. 
+website : https://developers.facebook.com/docs/plugins/
+
+**The following documentation helps you how can be used this theme............. 
+
+
+OK GUYS ENJOY THIS. 
+
+
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 AccessPress Lite WordPress Theme, Copyright 2014 http://wordpresssuperexpress.com
